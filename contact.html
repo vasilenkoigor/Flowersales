@@ -2,6 +2,7 @@
 title: Контакты
 heading: С нами очень легко связаться
 description: Мы будем рады ответить на все ваши вопросы!
+---
 
 <div class="contact-box">
 	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
@@ -21,9 +22,6 @@ description: Мы будем рады ответить на все ваши во
 	</form>
 
 	<div class="contact-details">
-		<h3 class="editable">Address</h3>
-		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
-
 		<h3 class="editable">Email</h3>
 		<p><a href="mailto:support@example.com">support@example.com</a></p>
 	</div>
