@@ -1,28 +1,27 @@
 ---
 title: Контакты
-heading: С нами очень легко связаться
-description: Мы будем рады ответить на все ваши вопросы!
+heading: Мы будем рады ответить на все ваши вопросы.
 ---
 
 <div class="contact-box">
 	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-		<input type="hidden" name="_to" value="support@example.com" />
+		<input type="hidden" name="_to" value="info@flowersales.co" />
 		<input type="text" name="_gotcha" style="display: none;">
 
-		<label for="name">Full Name</label>
-		<input type="text" name="name" id="name" placeholder="Enter your name..." />
+		<label for="name">Имя</label>
+		<input type="text" name="name" id="name" placeholder="" />
 
-		<label for="email">Email Address</label>
-		<input type="email" name="email" id="email" placeholder="Enter your email..." required />
+		<label for="email">Email</label>
+		<input type="email" name="email" id="email" placeholder="" required />
 
-		<label for="message">Message</label>
-		<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
+		<label for="message">Сообщение</label>
+		<textarea name="message" id="message" placeholder=""></textarea>
 
-		<input type="submit" value="Send Message" />
+		<input type="submit" value="Отправить" />
 	</form>
 
 	<div class="contact-details">
 		<h3 class="editable">Email</h3>
-		<p><a href="mailto:support@example.com">support@example.com</a></p>
+		<p><a href="mailto:info@flowersales.co">info@flowersales.co</a></p>
 	</div>
 </div>
