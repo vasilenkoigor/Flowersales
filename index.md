@@ -3,17 +3,6 @@ title:
 description: Вы нашли лучший способ для выбора букета
 ---
 
-<section class="hero">
-	<div class="text-container">
-		<h1 class="editable">The last sales CRM <strong>you'll ever need</strong></h1>
-		<p class="subtext editable">Track and optimize your sales team in real time.</p>
-		<div class="cta button alt"><a href="/sign-up/">Get Started Free</a></div>
-		<div>
-			<img src="//placehold.it/1500x945" alt="Screenshot" class="screenshot editable" />
-		</div>
-	</div>
-</section>
-
 <div class="content">
 	<section>
 		<div class="container flex">
@@ -62,9 +51,3 @@ description: Вы нашли лучший способ для выбора бу�
 			</div>
 		</div>
 	</section>
-
-	<section class="bottom-cta">
-		<h2 class="editable"><strong>Improve</strong> your sales process today</h2>
-		<div class="button alt"><a href="#">Get Started Free</a></div>
-	</section>
-</div>
