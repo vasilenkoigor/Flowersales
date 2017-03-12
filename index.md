@@ -31,11 +31,11 @@ description: Вы нашли лучший способ для выбора бу�
 	<section>
 		<div class="container flex">
 			<div class="text editable">
-				<h2>How can I <strong>forecast</strong> the next 90 days?</h2>
-				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources.</p>
+				<h2>Как мы помогаем <strong>быстро</strong> найти букет?</h2>
+				<p>Flowersales помогает вам найти быстро найти лучший букет благодаря простому и удобному дизайну всего в пару шагов.</p>
 			</div>
 			<div class="image">
-				<img src="//placehold.it/1500x938" alt="Screenshot" class="screenshot editable" />
+				<img src="https://firebasestorage.googleapis.com/v0/b/flowersales-471f5.appspot.com/o/web-site%2F5.5%20Device_Img_1.jpg?alt=media&token=18529c8b-e305-48fd-b913-2546f43c30a8" alt="Screenshot" class="screenshot editable" />
 			</div>
 		</div>
 	</section>
