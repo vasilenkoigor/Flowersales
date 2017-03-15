@@ -1,7 +1,7 @@
 ---
 ---
 
-<section class="testimonial">
+<section>
 <div class="container flex">
 		<div class="testimonial-block">
 			<div class="square-image editable"><img src="{{ site.baseurl }}/images/igor.png" alt="Василенко Игорь"></div>
