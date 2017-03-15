@@ -1,5 +1,4 @@
 ---
-description: 
 ---
 
 <div class="content">
