@@ -2,8 +2,8 @@
 # Site
 
 title: Flowersales
-url: https://www.flowersales.co
-enforce_ssl: www.flowersales.co
+url: https://flowersales.co
+enforce_ssl: flowersales.co
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
