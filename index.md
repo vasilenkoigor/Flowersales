@@ -7,7 +7,7 @@
 			<div class="square-image editable"><img src="{{ site.baseurl }}/images/igor.png" alt="Jim James"></div>
 			<blockquote>
 				<p class="editable">Hydra has shaped the business we have today. We have a repeatable sales process and a strategy to scale our team. I recommend Hydra to any business looking to improve their sales.</p>
-				<p class="editable author">Jim James - CEO of Global Corp.</p>
+				<p class="editable author">Василенко Игорь - Founder</p>
 			</blockquote>
 		</div>
 	</div>
@@ -28,8 +28,8 @@
 	<section>
 		<div class="container flex">
 			<div class="text editable">
-				<h2>How can we <strong>double</strong> our sales revenue?</h2>
-				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources. </p>
+				<h2>Почему так <strong>легко</strong> найти подходящий букет?</h2>
+				<p>Flowersales располагает довольно обширным каталогом. А именно, вы сможете найти - розы в нескольких вариантах цвета, тюльпаны, хризантемы, герберы, лилии, ромашки, орхидеи, пионы и это еще не конец списка.</p>
 			</div>
 			<div class="image">
 				<img src="{{ site.baseurl }}/images/Screenshot2.jpg" alt="Screenshot"/>
@@ -39,8 +39,8 @@
 	<section>
 		<div class="container flex">
 			<div class="text editable">
-				<h2>How can I <strong>keep track</strong> of my sales team?</h2>
-				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources.</p>
+				<h2>Сравнивать стало <strong>еще проще</strong>!</h2>
+				<p>Во время поиска вы узнаете общее количество букетов, которые мы нашли, минимальную и среднюю цену.</p>
 			</div>
 			<div class="image">
 				<img src="{{ site.baseurl }}/images/Screenshot3.jpg" alt="Screenshot"/>
