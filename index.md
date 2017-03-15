@@ -34,9 +34,7 @@ description: Вы нашли лучший способ для выбора бу�
 				<h2>Как мы помогаем <strong>быстро</strong> найти букет?</h2>
 				<p>Flowersales помогает вам найти быстро найти лучший букет благодаря простому и удобному дизайну всего в пару шагов.</p>
 			</div>
-			<div class="image">
-				<img src="https://firebasestorage.googleapis.com/v0/b/flowersales-471f5.appspot.com/o/web-site%2F5.5%20Device_Img_1.jpg?alt=media&token=18529c8b-e305-48fd-b913-2546f43c30a8" alt="Screenshot" class="screenshot editable" />
-			</div>
+			<img src="https://firebasestorage.googleapis.com/v0/b/flowersales-471f5.appspot.com/o/web-site%2F5.5%20Device_Img_1.jpg?alt=media&token=370e93ad-254b-4e76-bbcf-c31028c4179b" alt="Screenshot">
 		</div>
 	</section>
 
