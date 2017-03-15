@@ -11,6 +11,16 @@
 				</blockquote>		
 				</div>
 				</div>
+				
+<div class="container flex">
+		<div class="testimonial-block">
+			<div class="square-image editable"><img src="{{ site.baseurl }}/images/igor.png" alt="Igor Vasilenko"></div>
+			<blockquote>
+				<p class="editable">Flowersales - это онлайн агрегатор поиска букетов среди популярных цветочных интернет-магазинов. Мы не продаем букеты, мы ищем их для Вас. С помощью нас, пользователи смогут найти самые лучшие и выгодные предложения, а сотрудничающие с нами интернет-магазины, смогут значительно увеличить свои продажи!</p>
+				<p class="editable author">Василенко Игорь - Founder</p>
+			</blockquote>
+		</div>
+	</div>
 </section>
 
 
