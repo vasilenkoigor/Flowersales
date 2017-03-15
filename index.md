@@ -1,10 +1,9 @@
 ---
 title:
-description: Вы нашли лучший способ для выбора букета
+description:
 ---
 
 <div class="content">
-
 	<section>
 		<div class="container flex">
 			<div class="text editable">
@@ -16,7 +15,6 @@ description: Вы нашли лучший способ для выбора бу�
 			</div>
 		</div>
 	</section>
-
 	<section>
 		<div class="container flex">
 			<div class="text editable">
@@ -28,7 +26,6 @@ description: Вы нашли лучший способ для выбора бу�
 			</div>
 		</div>
 	</section>
-
 	<section>
 		<div class="container flex">
 			<div class="text editable">
@@ -40,7 +37,6 @@ description: Вы нашли лучший способ для выбора бу�
 			</div>
 		</div>
 	</section>
-
 	<section class="testimonial">
 		<div class="container flex">
 			<div class="testimonial-block">
