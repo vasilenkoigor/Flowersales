@@ -6,7 +6,7 @@
 		<div class="testimonial-block">
 			<div class="square-image editable"><img src="{{ site.baseurl }}/images/igor.png" alt="Jim James"></div>
 			<blockquote>
-				<p class="editable">Hydra has shaped the business we have today. We have a repeatable sales process and a strategy to scale our team. I recommend Hydra to any business looking to improve their sales.</p>
+				<p class="editable">Flowersales - это онлайн агрегатор поиска букетов среди популярных цветочных интернет-магазинов. С помощью нас, пользователи смогут найти самые лучшие и выгодные предложения, а сотрудничающие с нами интернет-магазины, смогут значительно увеличить свои продажи!</p>
 				<p class="editable author">Василенко Игорь - Founder</p>
 			</blockquote>
 		</div>
@@ -61,8 +61,8 @@
 	<section>
 		<div class="container flex">
 			<div class="text editable">
-				<h2>Не хотите <strong>потерять</strong> понравившийся букет?</h2>
-				<p>Чтобы в будущем Вы смогли найти быстро понравившийся Вам букет ранее, просто добавьте его в избранное!.</p>
+				<h2>Не желаете <strong>потерять</strong> понравившийся букет?</h2>
+				<p>Чтобы в будущем Вы смогли найти быстро понравившийся Вам букет ранее, просто добавьте его в избранное.</p>
 			</div>
 			<div class="image">
 				<img src="{{ site.baseurl }}/images/Screenshot5.jpg" alt="Screenshot"/>
