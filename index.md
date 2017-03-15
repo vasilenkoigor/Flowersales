@@ -9,7 +9,7 @@
 				<p>Flowersales помогает вам найти быстро найти лучший букет благодаря простому и удобному дизайну всего в пару шагов.</p>
 			</div>
 			<div class="image">
-				<img 		src="{{ site.baseurl }}/images/Screenshot1.png" alt="Screenshot"  />
+				<img src="{{ site.baseurl }}/images/Screenshot1.jpg" alt="Screenshot"  />
 			</div>
 		</div>
 	</section>
