@@ -1,7 +1,6 @@
 ---
 ---
 
-<div class="content">
 <section class="testimonial">
 	<div class="container flex">
 		<div class="testimonial-block">
@@ -13,6 +12,8 @@
 		</div>
 	</div>
 </section>
+
+<div class="content">
 	<section>
 		<div class="container flex">
 			<div class="text editable">
