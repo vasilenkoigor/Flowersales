@@ -6,7 +6,7 @@
 		<div class="container flex">
 			<div class="text editable">
 				<h2>Как мы помогаем <strong>быстро</strong> найти букет?</h2>
-				<p>Flowersales помогает вам найти быстро найти лучший букет благодаря простому и удобному дизайну всего в пару шагов.</p>
+				<p><Благодаря быстрому старту и простому UX дизайну, мы позволяем вам уже в считанные секунды тот букет, о котором вы мечтали.</p>
 			</div>
 			<div class="image">
 				<img src="{{ site.baseurl }}/images/Screenshot1.jpg" alt="Screenshot"  />
