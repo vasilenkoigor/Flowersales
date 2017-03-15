@@ -4,7 +4,6 @@
 title: Flowersales
 url: https://flowersales.co
 enforce_ssl: flowersales.co
-baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
