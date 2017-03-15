@@ -4,17 +4,6 @@
 <section class="testimonial">
 	<div class="container flex">
 		<div class="testimonial-block">
-			<div class="square-image editable"><img src="{{ site.baseurl }}/images/igor.png" alt="Jim James"></div>
-			<blockquote>
-				<p class="editable">Flowersales - это онлайн агрегатор поиска букетов среди популярных цветочных интернет-магазинов. Мы не продаем букеты, мы ищем их для Вас. С помощью нас, пользователи смогут найти самые лучшие и выгодные предложения, а сотрудничающие с нами интернет-магазины, смогут значительно увеличить свои продажи!</p>
-				<p class="editable author">Василенко Игорь - Founder</p>
-			</blockquote>
-		</div>
-	</div>
-</section>
-<section class="testimonial">
-	<div class="container flex">
-		<div class="testimonial-block">
 			<div class="square-image editable"><img src="{{ site.baseurl }}/images/elena.png" alt="Jim James"></div>
 				<blockquote>
 				<p class="editable">Цветы — это чудо, сотворенное природой. Она подарила их нам для того, чтобы мы научились видеть красоту, ценили каждое мгновение и радовались жизни. В Flowersales  собраны самые чудесные цветы — нежные, воздушные. Каждый букет принесёт радость, приятные эмоции и гармонию.</p>
@@ -23,6 +12,7 @@
 				</div>
 				</div>
 </section>
+
 
 <div class="content">
 	<section>
