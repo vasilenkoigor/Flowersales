@@ -4,7 +4,7 @@
 <section class="testimonial">
 <div class="container flex">
 		<div class="testimonial-block">
-			<div class="square-image editable"><img src="{{ site.baseurl }}/images/igor.png" alt="Igor Vasilenko"></div>
+			<div class="square-image editable"><img src="{{ site.baseurl }}/images/igor.png" alt="Василенко Игорь"></div>
 			<blockquote>
 				<p class="editable">Flowersales - это онлайн агрегатор поиска букетов среди популярных цветочных интернет-магазинов. Мы не продаем букеты, мы ищем их для Вас. С помощью нас, пользователи смогут найти самые лучшие и выгодные предложения, а сотрудничающие с нами интернет-магазины, смогут значительно увеличить свои продажи!</p>
 				<p class="editable author">Василенко Игорь - Founder</p>
@@ -13,7 +13,7 @@
 	</div>
 	<div class="container flex">
 		<div class="testimonial-block">
-			<div class="square-image editable"><img src="{{ site.baseurl }}/images/elena.png" alt="Jim James"></div>
+			<div class="square-image editable"><img src="{{ site.baseurl }}/images/elena.png" alt="Инюшева Елена"></div>
 				<blockquote>
 				<p class="editable">Цветы — это чудо, сотворенное природой. Она подарила их нам для того, чтобы мы научились видеть красоту, ценили каждое мгновение и радовались жизни. В Flowersales  собраны самые чудесные цветы — нежные, воздушные. Каждый букет принесёт радость, приятные эмоции и гармонию.</p>
 				<p class="editable author">Инюшева Елена - Founder</p>
