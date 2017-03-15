@@ -16,7 +16,7 @@
 			<div class="square-image editable"><img src="{{ site.baseurl }}/images/elena.png" alt="Инюшева Елена"></div>
 				<blockquote>
 				<p class="editable">Цветы — это чудо, сотворенное природой. Она подарила их нам для того, чтобы мы научились видеть красоту, ценили каждое мгновение и радовались жизни.
-				
+
 				В Flowersales  собраны самые чудесные цветы — нежные, воздушные. Каждый букет принесёт радость, приятные эмоции и гармонию.</p>
 				<p class="editable author">Инюшева Елена - Founder</p>
 				</blockquote>		
@@ -31,7 +31,7 @@
 				<p>Благодаря быстрому старту и простому UX дизайну, мы позволяем вам уже в считанные секунды найти тот букет, о котором вы мечтали всю жизнь!</p>
 			</div>
 			<div class="image">
-				<img src="{{ site.baseurl }}/images/Screenshot1.jpg" alt="Screenshot"/>
+				<img src="{{ site.baseurl }}/images/Screenshot1.png" alt="Screenshot"/>
 			</div>
 		</div>
 	</section>
@@ -42,7 +42,7 @@
 				<p>Мы располагаем довольно обширным каталогом. А именно, Вы сможете найти - розы в нескольких вариантах цвета, тюльпаны, хризантемы, герберы, лилии, ромашки, орхидеи, пионы и это еще не конец списка.</p>
 			</div>
 			<div class="image">
-				<img src="{{ site.baseurl }}/images/Screenshot2.jpg" alt="Screenshot"/>
+				<img src="{{ site.baseurl }}/images/Screenshot2.png" alt="Screenshot"/>
 			</div>
 		</div>
 	</section>
@@ -53,7 +53,7 @@
 				<p>Во время поиска Вы узнаете общее количество букетов, которые мы нашли, минимальную и среднюю цену.</p>
 			</div>
 			<div class="image">
-				<img src="{{ site.baseurl }}/images/Screenshot3.jpg" alt="Screenshot"/>
+				<img src="{{ site.baseurl }}/images/Screenshot3.png" alt="Screenshot"/>
 			</div>
 		</div>
 	</section>
@@ -64,7 +64,7 @@
 				<p>Мы постарались максимально увеличить удобство отображения букетов. Вы сразу же сможете оценить букет внешне, увидеть в каком магазине он продается, возможность доставки, цену и конечно же - добавить в избранное.</p>
 			</div>
 			<div class="image">
-				<img src="{{ site.baseurl }}/images/Screenshot4.jpg" alt="Screenshot"/>
+				<img src="{{ site.baseurl }}/images/Screenshot4.png" alt="Screenshot"/>
 			</div>
 		</div>
 	</section>
@@ -75,7 +75,7 @@
 				<p>Чтобы в будущем Вы смогли найти быстро понравившийся Вам букет ранее, просто добавьте его в избранное.</p>
 			</div>
 			<div class="image">
-				<img src="{{ site.baseurl }}/images/Screenshot5.jpg" alt="Screenshot"/>
+				<img src="{{ site.baseurl }}/images/Screenshot5.png" alt="Screenshot"/>
 			</div>
 		</div>
 	</section>
