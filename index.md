@@ -23,12 +23,12 @@
 				</div>
 				</div>
 </section>
-<section>
-<div class="image">
-	<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore"/>
-</div>
-</section>
 <div class="content">
+	<section>
+		<div class="image">
+			<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore"/>
+		</div>
+	</section>
 	<section>
 		<div class="container flex">
 			<div class="text editable">
