@@ -25,9 +25,7 @@
 </section>
 <div class="content">
 	<section>
-		<div class="image">
-			<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore"/>
-		</div>
+		<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore"/>
 	</section>
 	<section>
 		<div class="container flex">
