@@ -27,10 +27,10 @@
 <section>
 	<div class="container flex">
 		<div class="text editable">
-			<h2>Скоро нас можно будет найти в Appstore!</h2>
+			<h2>Скоро в AppStore!</h2>
 		</div>
 		<div class="image">
-			<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore" width="200" height="72" />
+			<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore"/>
 		</div>
 	</div>
 </section>
