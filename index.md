@@ -26,10 +26,10 @@
 <div class="content">
 <section>
 	<div class="container flex">
-		<div class="text editable">
-			<h2>Скоро в AppStore!</h2>
-		</div>
 		<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/94506?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+		<div class="image">
+			<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore"/>
+		</div>
 	</div>
 </section>
 	<section>
