@@ -23,8 +23,8 @@
 				</div>
 				</div>
 </section>
+<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore" width="200" height="72" />
 <div class="content">
-	<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore" width="200" height="72" />
 	<section>
 		<div class="container flex">
 			<div class="text editable">
