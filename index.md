@@ -23,8 +23,17 @@
 				</div>
 				</div>
 </section>
-<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore" width="200" height="72" />
 <div class="content">
+<section>
+	<div class="container flex">
+		<div class="text editable">
+			<h2>Скоро нас можно будет найти в Appstore!</h2>
+		</div>
+		<div class="image">
+			<img src="{{ site.baseurl }}/images/appstore.png" alt="appstore" width="200" height="72" />
+		</div>
+	</div>
+</section>
 	<section>
 		<div class="container flex">
 			<div class="text editable">
