@@ -1,9 +1,9 @@
 left_links:
-  - name: Blog
+  - name: Блог
     link: /blog/
-  - name: About
+  - name: О нас
     link: /about/
-  - name: Contact
+  - name: Контакты
     link: /contact/
 right_links:
   - name:
