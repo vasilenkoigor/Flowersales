@@ -1,12 +1,6 @@
-- name: Блог
+- name: Blog
   link: /blog/
-  new_window: false
-  highlight: false
-- name: О нас
+- name: About
   link: /about/
-  new_window: false
-  highlight: false
-- name: Контакты
+- name: Contact
   link: /contact/
-  new_window: false
-  highlight: false

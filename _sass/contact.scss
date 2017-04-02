@@ -1,13 +1,9 @@
 .map {
 	width: 100%;
-	margin: 100px 0;
-	height: 400px;
+	height: 440px;
 }
 
 .contact-box {
-	@extend %flexbox;
-	@include flex-flow(wrap);
-	max-width: 750px;
 	margin: 0 auto;
 
 	form {
@@ -23,10 +19,10 @@
 			-webkit-flex: 1;
 			flex: 1;
 		}
-		margin: 0 30px;
 	}
 
 	.contact-details {
 		font-size: .9em;
+		margin-top: 60px;
 	}
 }

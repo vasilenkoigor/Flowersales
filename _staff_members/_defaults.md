@@ -2,6 +2,6 @@
 name:
 position:
 image_path:
-twitter:
+twitter_username:
 blurb:
 ---

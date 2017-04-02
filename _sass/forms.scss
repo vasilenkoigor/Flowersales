@@ -1,29 +1,29 @@
 .button a, input[type=submit] {
-	color: #fff;
+	color: $brand-color;
 	text-decoration: none;
-	padding: 10px 30px;
-	background: $brand-color;
-	border-radius: 3px;
-	border: 1px solid rgba(255,255,255,.5);
+	border: 2px solid $brand-color;
 	transition: .2s ease-in-out;
+	display: inline-block;
+	padding: 16px 50px;
+	background: #fff;
 }
 
 .button a:hover, input[type=submit]:hover {
-	border: 1px solid #fff;
-	background: $secondary-brand-color;
+	background: $brand-color;
+	color: #fff;
 	cursor: pointer;
 }
 
 .button.alt a {
-	background: rgba(255,255,255,0.15);
-	border-radius: 3px;
-	border: 1px solid rgba(255, 255, 255, 0.3);
-	padding: 16px 50px;
+	background: rgba(255,255,255,0);
+	border: 2px solid rgba(255, 255, 255, 1);
+	color: #fff;
 }
 
 .button.alt a:hover {
 	background: #fff;
 	color: $brand-color;
+	text-shadow: none;
 }
 
 textarea, input, button, select { font-family: inherit; font-size: inherit; }

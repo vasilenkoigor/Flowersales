@@ -1,20 +1,27 @@
-- links:
-  - name: Блог
+left_links:
+  - name: Blog
     link: /blog/
-  - name: О нас
+  - name: About
     link: /about/
-  - name: Контакты
+  - name: Contact
     link: /contact/
-- links:
-  - name: Facebook
-    link: https://facebook.com
+right_links:
+  - name:
+    link: https://facebook.com/
     new_window: true
     social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com
+  - name:
+    link: https://twitter.com/
     social_icon: Twitter
     new_window: true
-  - name: YouTube
-    link: https://youtube.com
+  - name:
+    link: https://youtube.com/
     social_icon: YouTube
     new_window: true
+  - name:
+    link: https://plus.google.com/
+    social_icon: Google Plus
+    new_window: true
+  - name:
+    link: /feed.xml
+    social_icon: RSS

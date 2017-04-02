@@ -1,6 +1,8 @@
 ---
 title:
-categories:
-author_staff_member:
 date:
+description:
+categories:
+image:
+author_staff_member:
 ---

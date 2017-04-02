@@ -1,18 +1,14 @@
 ---
 layout: default
 ---
-<div class="content">
-	<section class="page">
-		<div class="container {% if page.full_width %}max-container{% endif %}">
-			{% if page.heading %}
-				<h2>{{ page.heading }}</h2>
-			{% elsif page.title and page.layout != 'archive' %}
-				<h2>{{ page.title }}</h2>
-			{% endif %}
-			{% if page.description %}
-				<p class="subtext">{{ page.description }}</p>
-			{% endif %}
-			{{ content }}
+
+<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+			<h1>{{ page.title }}</h1>
+			<p class="subtext">{{ page.description }}</p>
 		</div>
-	</section>
-</div>
+	</div>
+</section>
+
+{{ content }}
