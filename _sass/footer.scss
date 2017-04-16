@@ -1,7 +1,8 @@
 footer {
-	font-size: .6em;
+	@extend section;
+	padding: 100px 0 50px 0;
 	position: relative;
-	background: #2b2b40;
+	background: $html-background-color;
 	color: #fff;
 
 	&,
@@ -9,96 +10,66 @@ footer {
 		color: #999;
 	}
 
+	h2 {
+		font-size: 1.4em;
+		margin: 30px 0;
+		color: #ccc;
+	}
+
+	.footer-columns {
+		display: flex;
+		flex-flow: wrap;
+		margin: -10px -10px 10px -10px;
+	}
+
 	a {
 		text-decoration: none;
-		padding: 0 10px;
 
 		&:hover {
 			color: #fff;
 		}
 	}
 
-	ul {
-		padding: 0;
+	.legal-line {
+		width: 100%;
+		padding: 30px 0 0 0;
 		margin: 0;
 
-		&.footer-right-links {
-			float: left;
-			@media #{$tablet} {
-				float: right;
-			}
-		}
-
-		&.footer-left-links {
-			float: left;
-		}
-
-		li {
-			list-style: none;
-			margin: 15px auto;
-			display: inline-block;
-
-			a {
-
-				&:hover {
-					text-decoration: none;
-				}
-				svg {
-					fill: #999;
-					transition: fill 0.2s ease;
-					vertical-align: middle;
-					width: 18px;
-					height: 18px;
-				}
-
-				&:hover svg {
-					fill: #fff;
-				}
-
-				&.twitter-icon:hover svg {
-					fill: #55acee;
-				}
-
-				&.google-plus-icon:hover svg {
-					fill: #db4437;
-				}
-
-				&.youtube-icon:hover svg {
-					fill: #cd201f;
-				}
-
-				&.instagram-icon:hover svg {
-					fill: #f167f5;
-				}
-
-				&.linkedin-icon:hover svg {
-					fill: #0077b5;
-				}
-
-				&.pinterest-icon:hover svg {
-					fill: #bd081c;
-				}
-
-				&.rss-icon:hover svg {
-					fill: #f26522;
-				}
-			}
+		a {
+			font-style: italic;
 		}
 	}
 }
 
-.copyright {
-	margin: 15px auto;
-	float: left;
+.footer-links {
+	width: 100%;
+	margin: 10px;
+	padding: 0;
+	flex: 1 0 180px;
 
-	a {
-		color: #999;
-	}
+	li {
+		list-style: none;
+		margin: 15px 0;
 
-	@media #{$desktop} {
-		text-align: center;
-		float: none;
-		padding: 16px 0;
-		margin: 0;
+		a {
+			svg {
+				fill: #999;
+				margin-right: 10px;
+				transition: fill 0.2s ease;
+				vertical-align: middle;
+				position: relative;
+				top: -2px;
+				width: 22px;
+				height: 22px;
+			}
+
+			&:hover {
+				text-decoration: none;
+
+				svg {
+					fill: #fff;
+				}
+			}
+		}
 	}
 }

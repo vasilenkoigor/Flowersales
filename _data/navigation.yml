@@ -1,5 +1,4 @@
-- name: Блог
-  link: /blog/
+links:
 - name: О нас
   link: /about/
 - name: Контакты
