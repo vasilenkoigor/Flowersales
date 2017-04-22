@@ -3,9 +3,7 @@
     - name: Главная
       link: /        
     - name: О нас
-      link: /about/
-    - name: Контакты
-      link: /contact/
+      link: /about/    
 - title:
   links:
     - name: Facebook
